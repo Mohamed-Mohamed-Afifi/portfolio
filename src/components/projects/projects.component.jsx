@@ -131,7 +131,7 @@ const Projects = () => {
             LangSynth and beyond.
           </p>
           <a
-            href="https://github.com/MaverickCER"
+            href="https://github.com/Mohamed-Mohamed-Afifi"
             target="_blank"
             rel="noopener noreferrer"
           >
