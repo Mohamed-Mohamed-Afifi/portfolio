@@ -20,7 +20,7 @@ const Header = () => {
       <div className="desktopHeader">
         <div>
           <a href="/" className="logo">
-            <span>Maverick</span>
+            <span>Afify</span>
             <Logo className="headerLogo" />
           </a>
         </div>
@@ -48,7 +48,7 @@ const Header = () => {
       <div className="mobileHeader">
         <div>
           <a href="/" className="logo">
-            <span>Maverick</span>
+            <span>Afify</span>
             <Logo className="headerLogo" />
           </a>
         </div>

@@ -18,19 +18,19 @@ const About = () => {
       <div>
         <h2>About</h2>
         <p>
-          Hello! My name is Mohamed Mohamed Afifiy and I am a self taught
-          frontend developer.
+          Hello! My name is Mohamed Mohamed Afify and i am a Junior Full-Stack Developer skilled in React.js, Spring Boot, and database integration. Skilled in 
+converting system requirements into ERD diagrams, creating physical databases schema, and building 
+back-end services to handle user requests. Skilled in developing user interfaces using React JS and Redux 
+Toolkit, with a focus on creating dynamic and responsive front-end solutions.
         </p>
         <p>
-          The scope of my work is mostly includes responsive design, design to
-          html css js, CSS/JS annimations, jquery, react, REST APIs and other
-          works based on web development and javascript.
+        
         </p>
-        <p>
+        {/* <p>
           That being said, I like learning all aspects of web development and
           take pride in my fullstack work. Because of this, I am always open to
           new projects in new development environments.
-        </p>
+        </p> */}
       </div>
       <div>
         <h3 style={{ marginTop: "2rem" }}>Current Skills</h3>
@@ -59,24 +59,24 @@ const About = () => {
             </div>
             <p>TypeScript</p>
           </div>
-          {/* <div>
+          <div>
             <div className="skillemblem">
               <Node />
             </div>
             <p>NodeJS</p>
-          </div> */}
+          </div>
           <div>
             <div className="skillemblem">
               <Reacti />
             </div>
             <p>React</p>
           </div>
-          {/* <div>
+          <div>
             <div className="skillemblem">
               <Fire />
             </div>
             <p>Firebase</p>
-          </div> */}
+          </div>
           <div>
             <div className="skillemblem">
               <Boot />
@@ -95,12 +95,12 @@ const About = () => {
             </div>
             <p>Git</p>
           </div>
-          {/* <div>
+          <div>
             <div className="skillemblem">
               <Gulp />
             </div>
             <p>Gulp</p>
-          </div> */}
+          </div>
           <div>
             <div className="skillemblem">
               <Post />
@@ -111,13 +111,8 @@ const About = () => {
       </div>
       <div>
         <h3>Programming Directive</h3>
-        <p>Consume, as in to consume knowledge to serve the end user.</p>
         <p>
-          Enhance, as in to share solutions in order to enhance the problem.
-        </p>
-        <p>
-          Replicate, as in to replicate the process to consistently solve
-          problems.
+        Highly skilled in building scalable and efficient web applications, leveraging React.js for dynamic, user-friendly front-end interfaces and Spring Boot for robust, back-end microservices. Proficient in designing, developing, and integrating RESTful APIs, ensuring seamless communication between systems. Experienced in implementing modern software development practices, including agile methodologies, test-driven development, and CI/CD pipelines. Passionate about delivering clean, maintainable code and creating innovative solutions to complex technical challenges.
         </p>
       </div>
     </div>

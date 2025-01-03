@@ -3,18 +3,13 @@ import React from "react";
 const Hero = () => {
   return (
     <div id="hero">
-      <h3>Mohamed Afifiy</h3>
-      <h1>&lt; Front End Developer /&gt;</h1>
+      <h3>Mohamed Afify</h3>
+      <h1>&lt; Full-stack java developer/&gt;</h1>
       <p>
-        I design and build quality responsive websites, clean user interaces,
-        and rich interactive web apps. I am seeking React, Javascript, and other
-        web development opportunities.
+      Highly skilled in building scalable and efficient web applications, leveraging React.js for dynamic, user-friendly front-end interfaces and Spring Boot for robust, back-end microservices. Proficient in designing, developing, and integrating RESTful APIs, ensuring seamless communication between systems. Experienced in implementing modern software development practices, including agile methodologies, test-driven development, and CI/CD pipelines. Passionate about delivering clean, maintainable code and creating innovative solutions to complex technical challenges.
+      Open to remote freelance opportunities, contract roles, and full-time positions. Passionate about learning, problem-solving, and crafting innovative web solutions.
       </p>
-      <p>
-        Open to remote freelance opportunities, contract jobs, and full time
-        work. I like to learn new things, solve problems, and create innovative
-        web solutions.
-      </p>
+      <p></p>
       <a href="#projects" className="heroBTN">
         See my work
       </a>

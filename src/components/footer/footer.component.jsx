@@ -5,7 +5,7 @@ const Footer = () => {
     <div id="footer">
       <div className="desktopFooter">
         <div>
-          <a href="/">2023 © Copyright Mohamed Afify. All Rights Reserved</a>
+          <a href="/">2025 © Copyright Mohamed Afify. All Rights Reserved</a>
         </div>
         <ul className="desktopMenu">
           <li>

@@ -24,7 +24,7 @@ const Header = (props) => {
               <div className="desktopHeader">
                 <div>
                   <a href="/" className="logo">
-                    <span>Afifiy</span>
+                    <span>Afify</span>
                     <Logo className="headerLogo" />
                   </a>
                 </div>
