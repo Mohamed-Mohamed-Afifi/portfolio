@@ -17,8 +17,8 @@ const Projects = () => {
         <TabList>
           <h2>Projects</h2>
           <div>
-            <Tab  default={true}>Landing pages</Tab>
             <Tab>Full Projects</Tab>
+            <Tab  default={true}>Landing pages</Tab>
           </div>
         </TabList>
 
