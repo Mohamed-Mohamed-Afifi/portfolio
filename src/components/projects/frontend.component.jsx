@@ -39,7 +39,7 @@ workflow optimization, and efficient distribution, enhancing overall operational
               &lt; Github /&gt;
             </a>
             <a
-              href="https://www.figma.com/proto/2PPc8u7JWC8tRmk9loiXln/%D8%B5%D9%88%D8%A7%D9%85%D8%B9-%D9%85%D9%86%D9%88%D9%81?node-id=820-10411&p=f&t=A86ZMnPEgNDc2ete-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=820%3A10411"
+              href="https://www.figma.com/design/2PPc8u7JWC8tRmk9loiXln/%D8%B5%D9%88%D8%A7%D9%85%D8%B9-%D9%85%D9%86%D9%88%D9%81?node-id=0-1&p=f&t=dvkr8ZVXMdvQDN1l-0"
               target="_blank"
               rel="noopener noreferrer"
             >
